@@ -2,9 +2,7 @@ programa {hamburguer
 
   funcao inicio() {
 
-    escreva("--- MONTANDO O PEDIDO ---\n")
-
-    escreva("Base pronta. Aguardando os ingredientes...\n")
+    escreva("Item adicionado: Queijo (Forma: Cremoso e Derretido)\n")
 
   }
 
